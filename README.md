@@ -1,3 +1,4 @@
+# titanic-predictive-model
 # 🚢 Titanic - Machine Learning from Disaster
 
 This repository contains my solution to the **Titanic: Machine Learning from Disaster** competition on [Kaggle](https://www.kaggle.com/competitions/titanic). The goal of the competition is to build a predictive model that answers the question: *"What sorts of people were more likely to survive?"* using passenger data.
@@ -45,12 +46,12 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. Th
 
 ## 🛠 Technologies Used
 
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- scikit-learn  
-- XGBoost  
-- Jupyter Notebook  
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- scikit-learn
+- XGBoost
+- Jupyter Notebook
 
 ---
 
@@ -58,5 +59,5 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AmanKumarBhamboo/titanic-predictive-model.git
-   cd titanic-predictive-model
+   git clone https://github.com/AmanKumarBhamboo/Kaggle-Titanic-comp.git
+   cd Kaggle-Titanic-comp
