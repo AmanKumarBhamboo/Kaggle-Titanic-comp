@@ -1,4 +1,4 @@
-# titanic-predictive-model
+# Titanic-predictive-model
 # 🚢 Titanic - Machine Learning from Disaster
 
 This repository contains my solution to the **Titanic: Machine Learning from Disaster** competition on [Kaggle](https://www.kaggle.com/competitions/titanic). The goal of the competition is to build a predictive model that answers the question: *"What sorts of people were more likely to survive?"* using passenger data.
